@@ -4,7 +4,7 @@ import {
   Chat, 
   Rocketseat, 
   Favorite, 
-} from '../../styles/icons'
+} from '../../styles/Icons'
 
 export const Container = styled.div`
   display: flex;

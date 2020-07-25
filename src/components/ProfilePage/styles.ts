@@ -1,7 +1,7 @@
 import styled, { css } from 'styled-components';
 
-import { Cake, LocationOn} from '../../styles/icons'
-import Button from '../Buttom';
+import { Cake, LocationOn} from '../../styles/Icons'
+import Button from '../Button';
 
 export const Container = styled.div`
   display: flex;
