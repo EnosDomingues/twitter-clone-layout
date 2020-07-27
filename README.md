@@ -7,10 +7,10 @@ UI Clone - Twitter Responsive
 
 <p align="center">
   <a href="https://github.com/EnosDomingues/twitter-clone-layout/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/rocketseat/youtube-clone-twitter?color=%236633cc&logoColor=%236633cc&style=flat" alt="Contributors">
+    <img src="https://img.shields.io/badge/contributors-1-blue" alt="Contributors">
   </a>
   <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/github/license/rocketseat/youtube-clone-twitter?color=%236633cc&logo=mit" alt="License">
+    <img src="https://img.shields.io/badge/license-not%20specified-blue" alt="License">
   </a>
 </p>
 
